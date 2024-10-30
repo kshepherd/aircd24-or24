@@ -19,4 +19,6 @@ The workshop repo has slides and will be updated with future work
 ## DSpace links
 * https://4science.com/dspace-leadership-investigates-dspace-dspace-cris-merger/
 
-video is also uploaded to this github repo, and I might even share some ukelele jam pics even though they make me look like a frail elder.
+## Video
+
+https://youtu.be/UAYqzM1bfB0
